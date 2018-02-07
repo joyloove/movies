@@ -51,7 +51,7 @@
 
  Ya ingresamos a la data y dese ahi traemos el poster, el nombre de la película y un plot.
 
-  ![logros.jpg](assets/images/logros.jpg)
+  ![logros.png](assets/images/logros.png)
 
 ## Lo que estamos usando
 
